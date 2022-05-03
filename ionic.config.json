@@ -1,0 +1,7 @@
+{
+  "name": "swipe-ton-actu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
